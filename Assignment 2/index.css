@@ -1,0 +1,33 @@
+body{
+    background-color: #9ad841e8;
+}
+
+h1{
+    color:#00ebf7;
+    background-color:#5824e2b0;
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 35px;
+    font-weight:bold;
+    
+}
+
+.p1
+{
+    font-size:20px;
+}
+
+h2{
+    color: #002bff;
+    font-weight:bold;
+    font-size:25px;
+}
+
+a{
+    font-size:20px;
+  
+}
